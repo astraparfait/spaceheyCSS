@@ -48,13 +48,21 @@ nav:after {
 	margin-right: .5em;
 	pointer-events: none;
 }
+main:before {
+	content: url('https://media.giphy.com/media/w3AmrG1E1vr56/giphy.gif');
+	position: fixed;
+	bottom: 0;
+	right: 0;
+	transform: translateX(-3vw) translateY(-6vh);
+	pointer-events: none;
+}
 main {
 	background: none;
 	position: relative;
 	font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif;
 }
 .profile h1 {
-	border: 2px solid #000000;
+	border: 2px solid #1B44B8;
 	border-radius: 5px 5px 0 0;
 	padding: .5em;
 	color: #FFF;
