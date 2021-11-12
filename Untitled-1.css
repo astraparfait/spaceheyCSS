@@ -27,7 +27,7 @@ nav:before {
 	content: "SpaceHey Header";
 	display: block;
 	padding: 1em;
-	background: linear-gradient(to bottom, #245edb 0%, #3f8cf3 9%, #245edb 18%, #245edb 92%, #333 100%) center/cover no-repeat;
+	background: linear-gradient(to bottom, #252629 0%, #111113 9%, #245edb 18%, #245edb 92%, #333 100%) center/cover no-repeat;
 	font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif;
 	font-size: 1em;
 	text-shadow: 2px 2px 0px #000;
